@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da600b0e-64cd-4067-8d93-e18360d72fca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vue-admin-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WjQpSfwj8eS4wgT5O561wDvmrI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src/static/" />
+      <recent name="$PROJECT_DIR$/static/Ophthalmology" />
+      <recent name="$PROJECT_DIR$/Ophthalmology" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/src/views/front-end" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da600b0e-64cd-4067-8d93-e18360d72fca" name="Default Changelist" comment="" />
+      <created>1579660706876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579660706876</updated>
+      <workItem from="1579660709123" duration="62082000" />
+      <workItem from="1580012679554" duration="4585000" />
+      <workItem from="1580028845321" duration="30991000" />
+      <workItem from="1580332288779" duration="29589000" />
+      <workItem from="1580489264131" duration="33599000" />
+      <workItem from="1580600624027" duration="986000" />
+      <workItem from="1580617883089" duration="3000" />
+      <workItem from="1580625940917" duration="3593000" />
+      <workItem from="1580656318741" duration="182000" />
+      <workItem from="1580923476115" duration="4029000" />
+      <workItem from="1581010439675" duration="308000" />
+      <workItem from="1581037956540" duration="74024000" />
+      <workItem from="1581303112850" duration="48127000" />
+      <workItem from="1581581075378" duration="47479000" />
+      <workItem from="1582852175315" duration="3645000" />
+      <workItem from="1583728312249" duration="35381000" />
+      <workItem from="1584078607671" duration="1838000" />
+      <workItem from="1584080798075" duration="2829000" />
+      <workItem from="1584260159998" duration="5242000" />
+      <workItem from="1587182057922" duration="611000" />
+      <workItem from="1587450381251" duration="4060000" />
+      <workItem from="1590997307182" duration="1358000" />
+      <workItem from="1591086445608" duration="1267000" />
+      <workItem from="1591816033748" duration="1706000" />
+      <workItem from="1593066779111" duration="847000" />
+      <workItem from="1593322606939" duration="570000" />
+      <workItem from="1593977449331" duration="19537000" />
+      <workItem from="1594091788153" duration="679000" />
+      <workItem from="1594316917209" duration="486000" />
+      <workItem from="1594962136974" duration="4154000" />
+      <workItem from="1594966803639" duration="405000" />
+      <workItem from="1597602508296" duration="23768000" />
+      <workItem from="1607659508438" duration="3371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594015354336">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="333" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1594015354336" />
+    <state x="303" y="243" width="667" height="486" key="find.popup" timestamp="1597646458107">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="303" y="243" width="667" height="486" key="find.popup/0.23.1280.777/-640.-1057.1920.1057@0.23.1280.777" timestamp="1594014466811" />
+    <state x="303" y="243" width="667" height="486" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1597646458107" />
+  </component>
+</project>
